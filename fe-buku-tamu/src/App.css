@@ -1,0 +1,16 @@
+.container .table td:nth-child(2) {
+  min-width: 200px;
+}
+
+.container .table td:nth-child(6) {
+  text-align: justify;
+}
+
+.table button {
+  display: flex;
+  align-items: center;
+}
+
+.card-text {
+  text-align: justify;
+}
